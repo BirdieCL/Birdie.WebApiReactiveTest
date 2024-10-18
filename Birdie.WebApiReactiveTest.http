@@ -1,0 +1,6 @@
+@Birdie.WebApiReactiveTest_HostAddress = http://localhost:5294
+
+GET {{Birdie.WebApiReactiveTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
